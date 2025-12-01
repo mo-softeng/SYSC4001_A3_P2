@@ -6,7 +6,7 @@
 #include <sys/ipc.h>
 #include <sys/wait.h>
 #include <time.h>
-
+// Mohammed Osman 101312014
 #define NUM_QUESTIONS 5
 #define MAX_LINE 64
 
